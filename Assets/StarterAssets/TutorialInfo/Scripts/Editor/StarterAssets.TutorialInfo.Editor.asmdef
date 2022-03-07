@@ -1,0 +1,18 @@
+{
+    "name": "StarterAssets.TutorialInfo.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bf60ab1396d477d40897748966f8c132"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
