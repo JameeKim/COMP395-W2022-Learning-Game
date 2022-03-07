@@ -1,10 +1,10 @@
+using StarterAssets.InputSystem;
 using UnityEngine;
 
-namespace StarterAssets
+namespace StarterAssets.Mobile.CanvasInputs
 {
     public class UICanvasControllerInput : MonoBehaviour
     {
-
         [Header("Output")]
         public StarterAssetsInputs starterAssetsInputs;
 
@@ -27,7 +27,5 @@ namespace StarterAssets
         {
             starterAssetsInputs.SprintInput(virtualSprintState);
         }
-        
     }
-
 }
